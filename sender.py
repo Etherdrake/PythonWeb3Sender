@@ -9,11 +9,6 @@ private_key1 = "PRIVATE KEY OF SENDER ACCOUNT "
 
 account_2 = "PUBLIC ADDRESS OF RECEIVER"
 
-
-# ftm = Web3(Web3.HTTPProvider('https://rpcapi.fantom.network')) # Mainnnet
-
-ftm = Web3(Web3.HTTPProvider('https://rpc.testnet.fantom.network/')) # Testnet 
-
 is_connected = ftm.isConnected()
 
 print("Connection to Fantom Opera Testnet: " + str(is_connected))
