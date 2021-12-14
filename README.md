@@ -14,6 +14,7 @@ I used the Fantom testnet because:
 - The faucet is almost never down (unlike Binance Smart Chain)
 
 Faucet: https://faucet.fantom.network/
+Explorer: https://testnet.ftmscan.com/
 
 Be aware that you can also use this script with Ganache CLI, I just preferred using a "real" testnet. 
 
