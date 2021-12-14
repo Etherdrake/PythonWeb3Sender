@@ -2,7 +2,7 @@
 
 What is this program?
 
-This is a very simple example of how to send a transaction from account A to B. If you change 'ftm' to a different RPC you can use this program on on other chains too like Ethereum and Binance Smart Chain. 
+This is a very simple example of how to send a transaction from account A to B. If you change 'ftm' to a different RPC you can use this script on on other chains too like Ethereum and Binance Smart Chain. 
 
 Why did you use the Fantom network? 
 
@@ -13,7 +13,9 @@ I used the Fantom testnet because:
 - You can get FTM from the faucet every 5 minutes
 - The faucet is almost never down (unlike Binance Smart Chain)
 
-Be aware that you can also use this program with Ganache CLI, I just preferred using a "real" testnet. 
+Faucet: https://faucet.fantom.network/
+
+Be aware that you can also use this script with Ganache CLI, I just preferred using a "real" testnet. 
 
 Requirements:
 
