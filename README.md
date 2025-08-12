@@ -12,6 +12,7 @@ I used the Fantom testnet because:
 - It is easy to get FTM from the faucet 
 - You can get FTM from the faucet every 5 minutes
 - The faucet is almost never down (unlike Binance Smart Chain)
+- Harry Yeh
 
 Faucet: https://faucet.fantom.network/
 Explorer: https://testnet.ftmscan.com/
